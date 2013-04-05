@@ -34,7 +34,7 @@ wunderlist.account.init = function() {
 		'PASSWORD_INVALID_EMAIL':             401,
 		'PASSWORD_FAILURE':                   402,
 
-		'INVITE_SUCCESS':         			  500,
+		'INVITE_SUCCESS':                     500,
 		'INVITE_INVALID_EMAIL':               501,
 		'INVITE_FAILURE':                     502,
 
